@@ -19,50 +19,45 @@ Perfeito para alunos do **Ensino Médio, Enem, Vestibular** e professores que qu
 
 ### 📚 Tópicos Disponíveis
 
-**01 - Cinemática**
-- [MRU - Movimento Retilíneo Uniforme](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/01-Cinemática/01-MRU.ipynb)
-- [MRUV - Movimento Retilíneo Uniformemente Variado](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/01-Cinemática/02-MRUV.ipynb)
-- [Lançamento Oblíquo](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/01-Cinemática/03-Lançamento-Obliquo.ipynb)
-- [Movimento Circular Uniforme](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/01-Cinemática/04-Movimento-Circular.ipynb)
+### 🚀 Laboratório Interativo de Física - ENEM
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/00_Indice_Geral.ipynb)
+
+**01 - Mecânica**
+- [MRU - Movimento Retilíneo Uniforme](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/01_Mecanica/01_MRU.ipynb)
+- [MRUV - Movimento Retilíneo Uniformemente Variado](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/01_Mecanica/01_MRUV.ipynb)
+- [Queda Livre](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/01_Mecanica/01_Queda_Livre.ipynb)
+- [Lançamento Vertical](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/01_Mecanica/01_Lancamento_Vertical.ipynb)
+- [Lançamento Horizontal](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/01_Mecanica/01_Lancamento_Horizontal.ipynb)
+- [Lançamento Oblíquo](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/01_Mecanica/01_Lancamento_Oblicuo.ipynb)
 
 **02 - Dinâmica**
-- [Leis de Newton e Força Resultante](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/02-Dinâmica/01-Leis-de-Newton.ipynb)
-- [Força de Atrito e Plano Inclinado](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/02-Dinâmica/02-Atrito-e-Plano-Inclinado.ipynb)
-- [Sistemas de Partículas e Centro de Massa](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/02-Dinâmica/03-Sistemas-de-Particulas.ipynb)
+- [Segunda Lei de Newton](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/02_Dinamica/02_Segunda_Lei_de_Newton.ipynb)
+- [Plano Inclinado e Atrito](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/02_Dinamica/02_Plano_Inclinado.ipynb)
+- [Lei de Hooke](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/02_Dinamica/02_Lei_de_Hooke.ipynb)
 
-**03 - Trabalho, Energia e Conservação**
-- [Trabalho e Energia Cinética](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/03-Trabalho-Energia/01-Trabalho-Energia-Cinetica.ipynb)
-- [Energia Potencial e Conservação de Energia](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/03-Trabalho-Energia/02-Conservacao-de-Energia.ipynb)
-- [Potência Mecânica](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/03-Trabalho-Energia/03-Potencia.ipynb)
+**03 - Energia**
+- [Conservação da Energia Mecânica](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/03_Energia/03_Conservacao_da_Energia_Mecanica.ipynb)
+- [Colisões](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/03_Energia/03_Colisoes.ipynb)
 
-**04 - Impulso e Quantidade de Movimento**
-- [Quantidade de Movimento e Impulso](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/04-Impulso/01-Quantidade-de-Movimento.ipynb)
-- [Colisões Elásticas e Inelásticas](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/04-Impulso/02-Colisoes.ipynb)
+**04 - Termologia**
+- [Calorimetria](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/04_Termologia/04_Calorimetria.ipynb)
+- [Dilatação Térmica](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/04_Termologia/04_Dilatacao_Termica.ipynb)
+- [Transformações Gasosas](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/04_Termologia/04_Transformacoes_Gasosas.ipynb)
 
-**05 - Gravitação Universal**
-- [Lei de Newton da Gravitação](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/05-Gravitacao/01-Lei-da-Gravitacao.ipynb)
-- [Campo Gravitacional e Satélites](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/05-Gravitacao/02-Satelites.ipynb)
+**05 - Ondulatória**
+- [Ondas em Cordas](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/05_Ondulatoria/05_Ondas_em_Cordas.ipynb)
+- [Efeito Doppler](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/05_Ondulatoria/05_Efeito_Doppler.ipynb)
 
-**06 - Oscilações e Ondas**
-- [Pêndulo Simples](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/06-Oscilacoes/01-Pendulo-Simples.ipynb)
-- [Oscilador Harmônico Amortecido](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/06-Oscilacoes/02-Oscilador-Harmonico.ipynb)
-- [Ondas Mecânicas e Sonoras](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/06-Oscilacoes/03-Ondas-Mecanicas.ipynb)
+**06 - Óptica**
+- [Espelhos Planos, Côncavos e Convexos](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/06_Optica/06_Espelhos_Planos.ipynb)
+- [Lentes Convergentes](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/06_Optica/06_Lentes_Convergentes.ipynb)
+- [Lentes Divergentes](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/06_Optica/06_Lentes_Divergentes.ipynb)
 
-**07 - Óptica**
-- [Reflexão e Refração da Luz](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/07-Optica/01-Reflexao-Refracao.ipynb)
-- [Lentes e Instrumentos Ópticos](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/07-Optica/02-Lentes.ipynb)
-
-**08 - Eletrostática**
-- [Cargas Elétricas e Lei de Coulomb](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/08-Eletrostatica/01-Lei-de-Coulomb.ipynb)
-- [Campo Elétrico e Potencial Elétrico](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/08-Eletrostatica/02-Campo-Eletrico.ipynb)
-
-**09 - Eletrodinâmica**
-- [Circuitos Elétricos e Lei de Ohm](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/09-Eletrodinamica/01-Circuitos-e-Ohm.ipynb)
-- [Capacitores e Resistores em Série/Paralelo](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/09-Eletrodinamica/02-Circuitos-Serie-Paralelo.ipynb)
-
-**10 - Magnetismo e Indução**
-- [Campo Magnético e Força Magnética](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/10-Magnetismo/01-Campo-Magnetico.ipynb)
-- [Indução Eletromagnética e Lei de Faraday](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/10-Magnetismo/02-Inducao-Eletromagnetica.ipynb)
+**07 - Eletricidade**
+- [Lei de Ohm](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/07_Eletricidade/07_Lei_de_Ohm.ipynb)
+- [Associação de Resistores](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/07_Eletricidade/07_Associacao_de_Resistores.ipynb)
+- [Circuitos Elétricos Simples](https://colab.research.google.com/github/professorcarrijofc-sys/guia-completo-de-fisica/blob/main/Laboratorio_Interativo_de_Fisica_ENEM/07_Eletricidade/07_Circuitos_Eletricos_Simples.ipynb)
 
 ---
 
